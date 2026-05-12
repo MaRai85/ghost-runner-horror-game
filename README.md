@@ -40,6 +40,20 @@ para sobreviver o máximo possível.
 
 ### Instalação
 
+## 📥 Download
+
+### 🖥️ Executável Windows (pronto para jogar!)
+⬇️ **[Baixar JogoFantasma.exe](https://github.com/MaRai85/ghost-runner-horror-game/releases/latest)**
+
+### 🌐 Versão Web
+🔗 **[Jogar no navegador](https://MaRai85.github.io/ghost-runner-horror-game)**
+
+### 💻 Código fonte
+```bash
+git clone https://github.com/MaRai85/ghost-runner-horror-game.git
+pip install -r requirements.txt
+python main.py
+
 ```bash
 # Clone o repositório
 git clone https://github.com/MaRai85/jogo-fantasma.git
