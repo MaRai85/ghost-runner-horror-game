@@ -87,7 +87,7 @@ class Instrucoes:
             self.window.blit(fundo_blur, (0, 0))
             self.desenhar_caixa()
             self.desenhar_botao_voltar()
-            self.texto_centralizado("INSTRUÇÕES", 135, BRANCO_SUAVE, self.fonte_titulo)
+            self.texto_centralizado("INSTRUÇÕES", 160, BRANCO_SUAVE, self.fonte_titulo)
             self.texto_centralizado("Use as setas do teclado para vagar pelo além", 230)
             self.texto_centralizado("Desvie dos inimigos antes que eles drenem sua essência", 280)
             self.texto_centralizado("Orbes S aumentam sua energia espiritual", 335, AZUL)

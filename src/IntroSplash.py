@@ -22,7 +22,7 @@ class IntroSplash:
         )
         self.mensagens = [
             "Criado por Marcos Raimundo",
-            "Engine: PYGAME 2.6",
+            "Engine PYGAME 2.6",
             "Versão 5.0 - Demo"
         ]
 

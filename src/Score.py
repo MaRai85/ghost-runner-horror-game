@@ -93,7 +93,7 @@ class Score:
             self.desenhar_texto_centro("ORB V", self.fonte_texto, AZUL, self.col_x["vida"], cabecalho_y)
             self.desenhar_texto_centro("MODO", self.fonte_texto, AZUL, self.col_x["dificuldade"], cabecalho_y)
             self.desenhar_texto_centro("DATA", self.fonte_texto, AZUL, self.col_x["data"], cabecalho_y)
-            y = 250
+            y = 230
 
             if scores:
                 for i, score in enumerate(scores, start=1):

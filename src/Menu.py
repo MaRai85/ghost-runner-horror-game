@@ -125,7 +125,7 @@ class Menu:
                 self.fonte_subtitulo,
                 'The Death Race',
                 (185, 220, 255),
-                (width_max // 2, 255)
+                (width_max // 2, 210)
             )
             # BOTÕES DO MENU
             for i, opcao in enumerate(OPCAO_MENU):
